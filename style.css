@@ -19,12 +19,12 @@ img {
 }
 
 h1 {
-    color: #5BBE42;
+    color: #pink;
     filter: drop-shadow(0 0 10px #fffdef);
 }
 
 p {
-    color: #091007;
+    color: #pink;
 }
 .botao {
     width: 60px;
