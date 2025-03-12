@@ -3,7 +3,7 @@ let audios = [
     {caminho:'Arctic Monkeys - Do I Wanna Know_ (Official Video).mp3'},
     {caminho:'Elley Duhé - Middle of the Night (Lyrics).mp3'},
     {caminho:'Sweater Weather.mp3'},
-    {caminho:'Helena.mp3', legenda:'Helena'},
+    {caminho:'Ruth B. - Dandelions (Lyrics).mp3'},
     {caminho:'Jorge e Mateus - Nocaute (Áudio Oficial).mp3'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Rubel - Medo Bobo [Áudio Oficial].mp3'},
