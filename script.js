@@ -5,7 +5,7 @@ let audios = [
     {caminho:'Sweater Weather.mp3'},
     {caminho:'Ruth B. - Dandelions (Lyrics).mp3'},
     {caminho:'Jorge e Mateus - Nocaute (Áudio Oficial).mp3'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'Vem Cá - Pelé MilFlows (Prod. Volp & Rafa Valle).mp3'},
     {caminho:'Rubel - Medo Bobo [Áudio Oficial].mp3'},
     {caminho:'I Wanna Be Yours - Arctic Monkeys ( Lyrics ).mp3'},
 ];
