@@ -1,6 +1,6 @@
 let audios = [
     {caminho:'Jorge & Mateus - Os Anjos Cantam (LyricVideo) [Álbum Os Anjos Cantam].mp3'},
-    {caminho:'Arash.mp3', legenda:'Arash'},
+    {caminho:'Arctic Monkeys - Do I Wanna Know_ (Official Video).mp3'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Hayit.mp3', legenda:'Hayit'},
     {caminho:'Helena.mp3', legenda:'Helena'},
