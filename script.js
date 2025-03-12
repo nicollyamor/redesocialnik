@@ -1,5 +1,5 @@
 let audios = [
-    {caminho:'matuto.mp3', legenda:'Matuto de verdade'},
+    {caminho:'Jorge & Mateus - Os Anjos Cantam (LyricVideo) [Álbum Os Anjos Cantam].mp3'},
     {caminho:'Arash.mp3', legenda:'Arash'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Hayit.mp3', legenda:'Hayit'},
