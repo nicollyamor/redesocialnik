@@ -6,7 +6,7 @@ let audios = [
     {caminho:'Helena.mp3', legenda:'Helena'},
     {caminho:'Jorge e Mateus - Nocaute (Áudio Oficial).mp3'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'Rubel - Medo Bobo [Áudio Oficial].mp3'},
     {caminho:'I Wanna Be Yours - Arctic Monkeys ( Lyrics ).mp3'},
 ];
 
