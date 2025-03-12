@@ -7,7 +7,7 @@ let audios = [
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'I Wanna Be Yours - Arctic Monkeys ( Lyrics ).mp3'},
 ];
 
 let botoes = document.querySelectorAll('.botao');
