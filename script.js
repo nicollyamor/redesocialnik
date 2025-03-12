@@ -4,7 +4,7 @@ let audios = [
     {caminho:'Elley Duhé - Middle of the Night (Lyrics).mp3'},
     {caminho:'Hayit.mp3', legenda:'Hayit'},
     {caminho:'Helena.mp3', legenda:'Helena'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'Jorge e Mateus - Nocaute (Áudio Oficial).mp3'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'I Wanna Be Yours - Arctic Monkeys ( Lyrics ).mp3'},
