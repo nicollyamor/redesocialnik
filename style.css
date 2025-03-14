@@ -1,7 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    background-color: beige;
+    background-color: 255,250,250;
 }
 
 .foto-container {
@@ -19,12 +19,12 @@ img {
 }
 
 h1 {
-    color: white;
+    color: pink;
     filter: drop-shadow(0 0 10px #fffdef);
 }
 
 p {
-    color: white;
+    color: pink;
 }
 .botao {
     width: 100px;
