@@ -22,6 +22,7 @@ img {
 h1 {
     color: blue;
     filter: drop-shadow(0 0 10px #fffdef);
+    text-align: center
 }
 
 p {
